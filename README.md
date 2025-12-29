@@ -1,8 +1,6 @@
 <img src='assets/img/logo-batalha-naval.png'>
 <br>
 
-Projeto final da disciplina algoritmos e programação estruturada, do curso Sistemas para Internet - Instituto Federal da Paraíba (@ifpb) Campus João Pessoa-PB.
-
 ## Descrição do Projeto
 
 Batalha Naval é um jogo de tabuleiro em que os dois jogadores têm de adivinhar onde estão localizados os navios do oponente. O objetivo é derrubar primeiro todos os navios do adversário.
@@ -34,22 +32,3 @@ ATENÇÃO:
 1. Para fins de teste, o programa deverá permitir tornar visível as frotas.
 2. O programa também deverá permitir salvar, em arquivo texto, um jogo em andamento, bem como carregar o arquivo de um jogo salvo anteriormente para que este possa ser continuado.
 
-## Tecnologias utilizadas
-
-[![My Skills](https://skills.thijs.gg/icons?i=python,git,&theme=light)](https://skills.thijs.gg)
-
-## Autores
-
-Este projeto foi desenvolvido por:
-
-Luiz Fernando - [GitHub](https://github.com/LuizFernando12) `<br>`
-Marcelo Bruno - [GitHub](https://github.com/marceelobruno) `<br>`
-Lucas Kaique - [GitHub](https://github.com/LucasKaiquee)
-
-## Contribuição
-
-Este é um projeto acadêmico e não requer contribuições no momento.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).

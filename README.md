@@ -1,4 +1,4 @@
-<img src='assets/img/logo-batalha-naval.png'>
+<img src='assets/img/logo-**atalhaNaval2**.png'>
 <br>
 
 ## Descrição do Projeto

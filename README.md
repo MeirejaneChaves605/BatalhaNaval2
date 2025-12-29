@@ -1,4 +1,4 @@
-[<img src='assets/img/logo-**atalhaNaval2**.png'>](https://github.com/MeirejaneChaves605/BatalhaNaval2/blob/main/assets/img/logo-batalha-naval.png?raw=true.png)
+[<img src='assets/img/logo-**atalhaNaval2**.png'>](https://github.com/MeirejaneChaves605/BatalhaNaval2/blob/main/assets/img/logo-batalha-naval.png?raw=true.png)]
 <br>
 
 ## Descrição do Projeto
